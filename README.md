@@ -25,7 +25,7 @@ Al ingresar a "localhost:3000" le aparecera una notifiacion instanteneamente
 
 ## Trabajo en conjunto con: 🚀
 
-* [Fernando Checchi](https://github.com/FernandoChecchi)
+* [Jordi Rojas](https://github.com/AgusJordi)
 
 
 ## Objetivo 📌
